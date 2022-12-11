@@ -3219,3 +3219,7 @@ input, select, textarea {
 			}
 
 	}
+.emphasized { font-style: italic;
+				display: inline-block;
+				margin-left: 40px;}
+
